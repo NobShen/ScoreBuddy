@@ -1,48 +1,13 @@
 [
   {
-    "id": "chomotmuatrang",
-    "title": "Cho Một Mùa Trăng",
-    "file": "ChoMotMuaTrang.xml"
-  },
-  {
-    "id": "nguyetcam",
-    "title": "Nguyệt Cầm",
-    "file": "NguyetCam.xml"
-  },
-  {
     "id": "oholy_night",
     "title": "O Holy Night",
     "file": "OHolyNight.xml"
   },
   {
-    "id": "r1gt",
-    "title": "Riêng Một Góc Trời",
-    "file": "R1GT.xml"
-  },
-  {
     "id": "serenade_schubert",
     "title": "Serenade – Schubert",
     "file": "Serenade-Schubert.xml"
-  },
-  {
-    "id": "suoi_mo",
-    "title": "Suối Mơ",
-    "file": "SuoiMo.xml"
-  },
-  {
-    "id": "thu_vang",
-    "title": "Thu Vàng",
-    "file": "ThuVang.xml"
-  },
-  {
-    "id": "thuyen_vien_xu",
-    "title": "Thuyền Viễn Xứ",
-    "file": "ThuyenVienXu.xml"
-  },
-  {
-    "id": "em_huyen_dieu",
-    "title": "Đêm Huyền Diệu",
-    "file": "e-m-huye-n-die-u-1-pdf.xml"
   },
   {
     "id": "etude_in_e_minor_sor",
